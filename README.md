@@ -29,7 +29,7 @@ Coming soon..
 
 I’m open to discussing data-driven solutions, collaborating on projects, or just talking analytics. Feel free to reach out!
 
-- **LinkedIn**: [elukminaite](https://www.linkedin.com/in/elukminaite/)
+- **LinkedIn**: [eglezuperke](https://www.linkedin.com/in/eglezuperke/)
 - **Email**: [Gmail](egle.zuperke@gmail.com)
 - **GitHub**: [EgleZu](https://github.com/EgleZu/)
 
