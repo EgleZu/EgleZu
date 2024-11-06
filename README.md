@@ -2,9 +2,10 @@
 ## Hi there! 👋 I'm Egle
 
 
-### 🔍 Business Analyst | Data Analyst | Problem Solver
+### 🔍 Data Analyst | Business Analyst | Problem Solver
 
-Welcome to my GitHub! I’m an aspiring **Business Analyst** and **Data Analyst** with a passion for using data to drive decisions and improve business outcomes. I am using **SQL**, **Power BI**, and **Python** to uncover insights, create powerful visualizations and tell compelling stories with data.
+Welcome to my GitHub! I’m an aspiring analyst with a passion for using data to drive decisions and improve business outcomes. <br>
+I am using **SQL**, **Power BI**, and **Python** to uncover insights, create powerful visualizations and tell compelling stories with data.
 
 ---
 
@@ -21,7 +22,9 @@ Here’s what I bring to the table:
 
 ## 📈 My Projects
 
-Coming soon..
+- **Restaurant Orders Analysis (SQL)**: [Link to project](https://github.com/EgleZu/Restaurant-orders-analysis)
+
+More coming soon...
 
 ---
 
