@@ -23,8 +23,7 @@ Here’s what I bring to the table:
 ## 📈 My Projects
 
 - **Restaurant Orders Analysis (SQL)**: [Link to project](https://github.com/EgleZu/Restaurant-orders-analysis)
-
-More coming soon...
+- **CRM Sales overview (Power BI)**: [Link to project](https://github.com/EgleZu/CRM-Sales-overview)
 
 ---
 
